@@ -13,6 +13,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 |---|---|---:|---:|---:|---:|---:|
 | [EUR/CZK](data/EURCZK.csv) | 2026-10-07 | 24.427 | +0.09% | +0.74% | 1.73% | 196 |
 | [EUR/NOK](data/EURNOK.csv) | 2026-10-07 | 10.712 | -0.61% | +0.14% | 4.86% | 196 |
+| [EUR/SEK](data/EURSEK.csv) | 2026-10-07 | 11.224 | -0.16% | +0.67% | 3.63% | 196 |
 <!-- table:end -->
 
 ## Usage
