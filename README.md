@@ -14,6 +14,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/CZK](data/EURCZK.csv) | 2026-10-07 | 24.427 | +0.09% | +0.74% | 1.73% | 196 |
 | [EUR/INR](data/EURINR.csv) | 2026-10-07 | 108.1165 | -0.50% | -2.44% | 5.23% | 196 |
 | [EUR/KRW](data/EURKRW.csv) | 2026-10-07 | 1496.25 | -0.82% | -3.90% | 8.58% | 196 |
+| [EUR/MXN](data/EURMXN.csv) | 2026-10-07 | 20.2236 | +0.01% | +2.68% | 6.01% | 196 |
 | [EUR/NOK](data/EURNOK.csv) | 2026-10-07 | 10.712 | -0.61% | +0.14% | 4.86% | 196 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-10-07 | 11.224 | -0.16% | +0.67% | 3.63% | 196 |
 | [EUR/THB](data/EURTHB.csv) | 2026-10-07 | 37.661 | -0.46% | -1.68% | 4.43% | 196 |
