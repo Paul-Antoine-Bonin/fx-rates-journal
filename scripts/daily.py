@@ -103,7 +103,6 @@ def main():
         url = sh("gh", "pr", "create", "--title", title, "--body", body, "--base", "main", "--head", branch)
         sh("gh", "pr", "merge", url, "--squash", "--delete-branch", "--body", body + "\n\nCo-authored-by: ASRIDK <68287121+ASRIDK@users.noreply.github.com>")
         sh("git", "checkout", "-q", "main")
-        sh("git", "branch", "-q", "-D", branch)
         done += 1
         print(f"[{done}/{target}] merged {url}  {title}", flush=True)
         if done < target:
