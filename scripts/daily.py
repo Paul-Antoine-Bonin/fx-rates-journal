@@ -101,7 +101,7 @@ def main():
         sh("git", "commit", "-q", "-m", title)
         sh("git", "push", "-q", "-u", "origin", branch)
         url = sh("gh", "pr", "create", "--title", title, "--body", body, "--base", "main", "--head", branch)
-        sh("gh", "pr", "merge", url, "--squash", "--delete-branch")
+        sh("gh", "pr", "merge", url, "--squash", "--delete-branch", "--body", body + "\n\nCo-authored-by: ASRIDK <68287121+ASRIDK@users.noreply.github.com>")
         sh("git", "checkout", "-q", "main")
         sh("git", "branch", "-q", "-D", branch)
         done += 1
