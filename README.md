@@ -37,3 +37,7 @@ Rates are published around 16:00 CET on TARGET business days.
 ## License
 
 Code: MIT. Data: ECB, see their terms of reuse.
+
+## Maintainers
+
+@Paul-Antoine-Bonin · @ASRIDK
