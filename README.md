@@ -22,6 +22,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/MXN](data/EURMXN.csv) | 2026-10-07 | 20.2236 | +0.01% | +2.68% | 6.01% | 196 |
 | [EUR/NOK](data/EURNOK.csv) | 2026-10-07 | 10.712 | -0.61% | +0.14% | 4.86% | 196 |
 | [EUR/PHP](data/EURPHP.csv) | 2026-10-07 | 70.203 | -0.71% | -3.59% | 5.44% | 196 |
+| [EUR/PLN](data/EURPLN.csv) | 2026-10-07 | 4.3825 | +0.40% | +1.56% | 3.53% | 196 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-10-07 | 11.224 | -0.16% | +0.67% | 3.63% | 196 |
 | [EUR/THB](data/EURTHB.csv) | 2026-10-07 | 37.661 | -0.46% | -1.68% | 4.43% | 196 |
 <!-- table:end -->
