@@ -11,6 +11,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 <!-- table:start -->
 | Pair | Last fixing | Rate | 1d | 20d | 60d vol (ann.) | Rows |
 |---|---|---:|---:|---:|---:|---:|
+| [EUR/CZK](data/EURCZK.csv) | 2026-10-07 | 24.427 | +0.09% | +0.74% | 1.73% | 196 |
 | [EUR/NOK](data/EURNOK.csv) | 2026-10-07 | 10.712 | -0.61% | +0.14% | 4.86% | 196 |
 <!-- table:end -->
 
