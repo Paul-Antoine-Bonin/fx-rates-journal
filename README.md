@@ -13,6 +13,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 |---|---|---:|---:|---:|---:|---:|
 | [EUR/AUD](data/EURAUD.csv) | 2026-10-07 | 1.6079 | -0.38% | -0.30% | 4.65% | 196 |
 | [EUR/BRL](data/EURBRL.csv) | 2026-10-07 | 5.5953 | -0.07% | -5.64% | 12.48% | 196 |
+| [EUR/CHF](data/EURCHF.csv) | 2026-10-07 | 0.9309 | -0.53% | -1.01% | 5.17% | 196 |
 | [EUR/CNY](data/EURCNY.csv) | 2026-10-07 | 7.4937 | -0.82% | -4.12% | 4.49% | 196 |
 | [EUR/CZK](data/EURCZK.csv) | 2026-10-07 | 24.427 | +0.09% | +0.74% | 1.73% | 451 |
 | [EUR/DKK](data/EURDKK.csv) | 2026-10-07 | 7.4745 | -0.00% | -0.00% | 0.08% | 196 |
