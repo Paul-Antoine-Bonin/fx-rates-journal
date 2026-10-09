@@ -29,7 +29,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/PLN](data/EURPLN.csv) | 2026-10-07 | 4.3825 | +0.40% | +1.56% | 3.53% | 196 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-10-07 | 11.224 | -0.16% | +0.67% | 3.63% | 196 |
 | [EUR/SGD](data/EURSGD.csv) | 2026-10-08 | 1.434 | +0.20% | -2.52% | 2.96% | 197 |
-| [EUR/THB](data/EURTHB.csv) | 2026-10-07 | 37.661 | -0.46% | -1.68% | 4.43% | 196 |
+| [EUR/THB](data/EURTHB.csv) | 2026-10-08 | 37.68 | +0.05% | -1.69% | 4.38% | 197 |
 <!-- table:end -->
 
 ## Usage
