@@ -11,7 +11,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 <!-- table:start -->
 | Pair | Last fixing | Rate | 1d | 20d | 60d vol (ann.) | Rows |
 |---|---|---:|---:|---:|---:|---:|
-| [EUR/AUD](data/EURAUD.csv) | 2026-10-07 | 1.6079 | -0.38% | -0.30% | 4.65% | 196 |
+| [EUR/AUD](data/EURAUD.csv) | 2026-10-08 | 1.611 | +0.19% | -0.35% | 4.65% | 197 |
 | [EUR/BRL](data/EURBRL.csv) | 2026-10-07 | 5.5953 | -0.07% | -5.64% | 12.48% | 196 |
 | [EUR/CAD](data/EURCAD.csv) | 2026-10-08 | 1.5953 | +0.14% | -0.60% | 4.06% | 197 |
 | [EUR/CHF](data/EURCHF.csv) | 2026-10-08 | 0.9326 | +0.18% | -1.12% | 5.18% | 197 |
