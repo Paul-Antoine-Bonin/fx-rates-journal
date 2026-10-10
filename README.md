@@ -34,6 +34,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/SGD](data/EURSGD.csv) | 2026-10-08 | 1.434 | +0.20% | -2.52% | 2.96% | 197 |
 | [EUR/THB](data/EURTHB.csv) | 2026-10-08 | 37.68 | +0.05% | -1.69% | 4.38% | 197 |
 | [EUR/TRY](data/EURTRY.csv) | 2026-10-09 | 55.1033 | +0.09% | -2.18% | 4.88% | 198 |
+| [EUR/ZAR](data/EURZAR.csv) | 2026-10-09 | 18.527 | -0.53% | -1.09% | 7.24% | 198 |
 <!-- table:end -->
 
 ## Usage
