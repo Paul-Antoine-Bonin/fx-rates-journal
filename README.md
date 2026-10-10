@@ -20,7 +20,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/DKK](data/EURDKK.csv) | 2026-10-07 | 7.4745 | -0.00% | -0.00% | 0.08% | 196 |
 | [EUR/GBP](data/EURGBP.csv) | 2026-10-08 | 0.84698 | +0.06% | -1.42% | 2.61% | 197 |
 | [EUR/IDR](data/EURIDR.csv) | 2026-10-09 | 20036.94 | -0.04% | -1.80% | 5.17% | 198 |
-| [EUR/ILS](data/EURILS.csv) | 2026-10-07 | 3.429 | -0.17% | -2.53% | 7.83% | 196 |
+| [EUR/ILS](data/EURILS.csv) | 2026-10-09 | 3.426 | -0.47% | -2.95% | 7.47% | 198 |
 | [EUR/INR](data/EURINR.csv) | 2026-10-08 | 108.2635 | +0.14% | -2.35% | 5.06% | 197 |
 | [EUR/ISK](data/EURISK.csv) | 2026-10-08 | 137.0 | +0.00% | -2.14% | 3.75% | 197 |
 | [EUR/JPY](data/EURJPY.csv) | 2026-10-09 | 177.34 | +0.16% | -0.68% | 8.31% | 198 |
