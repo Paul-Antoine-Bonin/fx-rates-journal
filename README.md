@@ -28,7 +28,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/KRW](data/EURKRW.csv) | 2026-10-09 | 1503.27 | +0.03% | -3.42% | 8.67% | 198 |
 | [EUR/MXN](data/EURMXN.csv) | 2026-10-07 | 20.2236 | +0.01% | +2.68% | 6.01% | 196 |
 | [EUR/NOK](data/EURNOK.csv) | 2026-10-07 | 10.712 | -0.61% | +0.14% | 4.86% | 196 |
-| [EUR/NZD](data/EURNZD.csv) | 2026-10-08 | 2.0014 | +0.19% | +0.37% | 4.90% | 197 |
+| [EUR/NZD](data/EURNZD.csv) | 2026-10-09 | 1.9961 | -0.26% | +0.24% | 4.94% | 198 |
 | [EUR/PHP](data/EURPHP.csv) | 2026-10-07 | 70.203 | -0.71% | -3.59% | 5.44% | 196 |
 | [EUR/PLN](data/EURPLN.csv) | 2026-10-09 | 4.3835 | +0.19% | +1.35% | 3.47% | 198 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-10-09 | 11.1675 | -0.24% | -0.62% | 3.70% | 198 |
