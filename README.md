@@ -36,7 +36,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/RON](data/EURRON.csv) | 2026-11-26 | 5.344 | +0.02% | -0.00% | 2.87% | 232 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-11-26 | 11.2025 | -0.32% | +1.85% | 4.23% | 232 |
 | [EUR/SGD](data/EURSGD.csv) | 2026-11-26 | 1.4163 | +0.24% | -0.72% | 3.55% | 232 |
-| [EUR/THB](data/EURTHB.csv) | 2026-10-08 | 37.68 | +0.05% | -1.69% | 4.38% | 197 |
+| [EUR/THB](data/EURTHB.csv) | 2026-11-26 | 37.386 | +0.17% | -0.49% | 4.38% | 232 |
 | [EUR/TRY](data/EURTRY.csv) | 2026-11-26 | 55.6177 | +0.36% | +0.27% | 5.28% | 232 |
 | [EUR/ZAR](data/EURZAR.csv) | 2026-11-26 | 19.2646 | -0.45% | +4.01% | 7.30% | 232 |
 <!-- table:end -->
