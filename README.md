@@ -32,7 +32,7 @@ backfills one more year of history back to 2000, so the dataset keeps getting de
 | [EUR/PHP](data/EURPHP.csv) | 2026-10-07 | 70.203 | -0.71% | -3.59% | 5.44% | 196 |
 | [EUR/PLN](data/EURPLN.csv) | 2026-10-09 | 4.3835 | +0.19% | +1.35% | 3.47% | 198 |
 | [EUR/SEK](data/EURSEK.csv) | 2026-11-26 | 11.2025 | -0.32% | +1.85% | 4.23% | 232 |
-| [EUR/SGD](data/EURSGD.csv) | 2026-10-08 | 1.434 | +0.20% | -2.52% | 2.96% | 197 |
+| [EUR/SGD](data/EURSGD.csv) | 2026-11-26 | 1.4163 | +0.24% | -0.72% | 3.55% | 232 |
 | [EUR/THB](data/EURTHB.csv) | 2026-10-08 | 37.68 | +0.05% | -1.69% | 4.38% | 197 |
 | [EUR/TRY](data/EURTRY.csv) | 2026-10-09 | 55.1033 | +0.09% | -2.18% | 4.88% | 198 |
 | [EUR/ZAR](data/EURZAR.csv) | 2026-11-26 | 19.2646 | -0.45% | +4.01% | 7.30% | 232 |
